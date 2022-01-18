@@ -56,7 +56,4 @@ public class CarParking {
         }
     }
 }
-
-//Branch-Thivanka
-//CarParking
-//123456789
+// car manegment system
