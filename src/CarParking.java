@@ -11,12 +11,12 @@ public class CarParking {
         int car=0,bike=0,van=0;
         while (true)
         {
-            System.out.println("Press 1 to enter car");
-            System.out.println("Press 2 to enter bike");
-            System.out.println("Press 3 to enter van");
-            System.out.println("Press 4 to view data");
-            System.out.println("Press 5 to delete data");
-            System.out.println("Press 6 to exit");
+            System.out.println("Press 1 to enter car"); // add a car
+            System.out.println("Press 2 to enter bike"); // add a bike
+            System.out.println("Press 3 to enter van"); // add a van
+            System.out.println("Press 4 to view data"); // view data
+            System.out.println("Press 5 to delete data"); // delete data
+            System.out.println("Press 6 to exit"); // exit
             choice=sc.nextInt();
             switch(choice)
             {
